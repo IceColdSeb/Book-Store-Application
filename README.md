@@ -23,6 +23,6 @@ Technologies Used:
 - NetBeans IDE
 
 How to Run:
-1. Open the NetBeans project folder in NetBeans IDE.
-2. Build and run the project.
-3. Ensure books.txt and customers.txt are in the root folder when starting the app.
+1. This project can be run in Netbeans IDE 16. upload the files in Netbeans 
+2. Place `books.txt` and `customers.txt` in the project root.
+3. Build and run the project.
