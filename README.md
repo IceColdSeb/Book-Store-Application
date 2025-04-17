@@ -1,8 +1,10 @@
 # Fully-Featured Bookstore System Application
 
+Author: Catalin Sebastian Ilie
+
 Do not copy or submit any part of this project as your own. Doing so may be considered academic misconduct under your institution’s policies.
 
-The author of this project do not take responsibility for any misuse of this code.
+I do not take responsibility for any misuse of this code.
 
 This is for eduactional uses only
 =================================================================================================================================================
@@ -23,4 +25,4 @@ Technologies Used:
 How to Run:
 1. Open the NetBeans project folder in NetBeans IDE.
 2. Build and run the project.
-3. Ensure `books.txt` and `customers.txt` are in the root folder when starting the app.
+3. Ensure books.txt and customers.txt are in the root folder when starting the app.
